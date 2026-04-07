@@ -29,4 +29,4 @@ Our App does not knowingly collect personally identifiable information from chil
 We may update our Privacy Policy from time to time. We notify you of any changes by posting the new Privacy Policy on this page.
 
 ## 7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: [INSERT YOUR EMAIL HERE]
+If you have any questions about this Privacy Policy, please contact us at: pdarekar9623@gmail.com
